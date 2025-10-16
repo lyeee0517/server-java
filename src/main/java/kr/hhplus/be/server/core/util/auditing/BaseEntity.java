@@ -1,4 +1,4 @@
-package kr.hhplus.be.server.util.auditing;
+package kr.hhplus.be.server.core.util.auditing;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Embeddable;
